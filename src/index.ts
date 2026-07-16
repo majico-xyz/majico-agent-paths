@@ -1,0 +1,2 @@
+/** @majico-xyz/agent-paths */
+
